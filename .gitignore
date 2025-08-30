@@ -1,0 +1,11 @@
+
+.env
+
+__pycache__/
+
+todo_list.json
+
+
+translations.db
+
+data/
